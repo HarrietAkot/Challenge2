@@ -1,0 +1,35 @@
+#wholebody{
+    text-align: center;
+    background-color: rgb(151, 206, 206);
+    font-family: helvetica;
+
+}
+
+#form{
+   
+    width: 75%;
+    margin-left: 200px;
+    background-color: whitesmoke;
+    align-content:center;
+    text-align: center;
+    font-style: normal;
+    font-family: 'Raleway', Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 20px;
+    border-radius:5px;
+    font-weight: 100;
+       }
+.lefty{
+       display: inline-block;
+       text-align: right;
+       width: 40%;
+       padding: 5px;
+       vertical-align: top;
+       margin-top: 10px;
+    }
+.righty {
+        display: inline-block;
+        text-align: left;
+        width: 48%;
+        vertical-align: middle;
+      }
